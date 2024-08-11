@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Romote repo test.
 create a new branch.
-Creating a new branch is quick & simple.
+creating a new branche is quick and simple.
